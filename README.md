@@ -1,6 +1,6 @@
 # HTML List
 
-- Activity 1 -> Grocery List
+- Activity 1 -> [Grocery](./Activity 1/Grocery.html)
 - Activity 2 -> Recipe
 - Activity 3 -> Genre
 - Activity 4 -> Inline
